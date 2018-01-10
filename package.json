@@ -1,0 +1,26 @@
+{
+  "name": "excel2json",
+  "version": "1.0.0",
+  "description": "convert excel to json and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "to",
+    "json",
+    "typescript"
+  ],
+  "author": "rannar yang",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.5.2",
+    "node-xlsx": "^0.11.2",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "excel": "^0.1.7"
+  }
+}
